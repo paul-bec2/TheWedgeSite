@@ -75,11 +75,18 @@ function ExamplesNavbar() {
             data-placement="bottom"
             to="/index"
             target="_blank"
-            title="Coded by Creative Tim"
             tag={Link}
           >
-            The Wedge
+            <img
+               alt="logo"
+               src={require("../../assets/img/logo" + navbarColor + ".png")}
+               style={{
+                 height: 55,
+                 width: 115
+               }}
+             />
           </NavbarBrand>
+
           <button
             aria-expanded={navbarCollapse}
             className={classnames("navbar-toggler navbar-toggler", {
@@ -92,6 +99,7 @@ function ExamplesNavbar() {
             <span className="navbar-toggler-bar bar3" />
           </button>
         </div>
+
         <Collapse
           className="justify-content-end"
           navbar
@@ -102,14 +110,14 @@ function ExamplesNavbar() {
               <NavLink
                 href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-examples-navbar"
                 target="_blank">
-                <i className="nc-icon nc-layout-11" /> Contact Us
+                <i className="nc-icon nc-book-bookmark" /> Testimonials
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
                 href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-examples-navbar"
                 target="_blank">
-                <i className="nc-icon nc-book-bookmark" /> Testimonials
+                <i className="nc-icon nc-layout-11" /> Contact Us
               </NavLink>
             </NavItem>
           </Nav>

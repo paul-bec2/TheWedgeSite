@@ -46,7 +46,7 @@ function LandingPageHeader() {
         style={{
           backgroundImage:
             "url(" + require("../../assets/img/Cade-on-top.jpg") + ")",
-          backgroundPosition: 'left',
+          backgroundPosition: 'center',
           width: '100vw',
           height: '100vh',
         }}
@@ -67,10 +67,7 @@ function LandingPageHeader() {
               outline
             >
               <i className="fa fa-play" />
-              Watch video
-            </Button>
-            <Button className="btn-round" color="neutral" type="button" outline>
-              Download
+              product video
             </Button>
           </div>
         </Container>

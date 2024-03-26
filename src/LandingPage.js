@@ -59,11 +59,9 @@ function LandingPage() {
               <Col className="ml-auto mr-auto" md="8">
                 <h2 className="title">Let's talk product</h2>
                 <h5 className="description">
-                  This is the paragraph where you can write more details about
-                  your product. Keep you user engaged by providing meaningful
-                  information. Remember that by this time, the user is curious,
-                  otherwise he wouldn't scroll to get here. Add a button if you
-                  want the user to see more.
+                  Sloped pactice mats are not, by any means, new to the golfing world. However, this one in particular is. As the only affordable AND adjustable mat available today for
+                  golfers of all skill levels, this product will revolutionize your ability to perform on non-optimal lies. It has been extremely difficult to practice upwards, downwards,
+                  and sideways slanted swings. No wonder you feel uncomfortable every time you step up to a shot that doesn't feel like your easy range shot. That all changes with The Wedge.
                 </h5>
                 <br />
                 <Button
@@ -72,23 +70,26 @@ function LandingPage() {
                   href="#pablo"
                   onClick={(e) => e.preventDefault()}
                 >
-                  See Details
+                  See Details and Pricing
                 </Button>
               </Col>
             </Row>
             <br />
             <br />
+            <br />
             <Row>
-              <Col md="3">
+              <Col md="1" />
+              <Col md="4">
                 <div className="info">
                   <div className="icon icon-info">
                     <i className="nc-icon nc-album-2" />
                   </div>
                   <div className="description">
-                    <h4 className="info-title">Beautiful Gallery</h4>
+                    <h4 className="info-title">Product Gallery</h4>
+                    <br />
                     <p className="description">
-                      Spend your time generating new ideas. You don't have to
-                      think of implementing.
+                      Our customers using The Wedge at their home simulators or on
+                      all types of ranges.
                     </p>
                     <Button className="btn-link" color="info" href="#pablo">
                       See more
@@ -96,50 +97,19 @@ function LandingPage() {
                   </div>
                 </div>
               </Col>
-              <Col md="3">
+              <Col md="2" />
+              <Col md="4">
                 <div className="info">
                   <div className="icon icon-info">
-                    <i className="nc-icon nc-bulb-63" />
+                    <i className="nc-icon nc-book-bookmark" />
                   </div>
                   <div className="description">
-                    <h4 className="info-title">New Ideas</h4>
+                    <h4 className="info-title">Testimonials</h4>
+                    <br />
+
                     <p>
-                      Larger, yet dramatically thinner. More powerful, but
-                      remarkably power efficient.
-                    </p>
-                    <Button className="btn-link" color="info" href="#pablo">
-                      See more
-                    </Button>
-                  </div>
-                </div>
-              </Col>
-              <Col md="3">
-                <div className="info">
-                  <div className="icon icon-info">
-                    <i className="nc-icon nc-chart-bar-32" />
-                  </div>
-                  <div className="description">
-                    <h4 className="info-title">Statistics</h4>
-                    <p>
-                      Choose from a veriety of many colors resembling sugar
-                      paper pastels.
-                    </p>
-                    <Button className="btn-link" color="info" href="#pablo">
-                      See more
-                    </Button>
-                  </div>
-                </div>
-              </Col>
-              <Col md="3">
-                <div className="info">
-                  <div className="icon icon-info">
-                    <i className="nc-icon nc-sun-fog-29" />
-                  </div>
-                  <div className="description">
-                    <h4 className="info-title">Delightful design</h4>
-                    <p>
-                      Find unique and handmade delightful designs related items
-                      directly from our sellers.
+                      See what our past customers have thought of The Wedge. They
+                      love it, and so will you.
                     </p>
                     <Button className="btn-link" color="info" href="#pablo">
                       See more
