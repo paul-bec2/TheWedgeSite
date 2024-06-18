@@ -74,7 +74,7 @@ function ExamplesNavbar() {
           <NavbarBrand
             data-placement="bottom"
             to="/index"
-            target="_blank"
+            target="_self"
             tag={Link}
           >
             <img
