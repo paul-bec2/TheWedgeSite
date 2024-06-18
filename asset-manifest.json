@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/TheWedgeSite/static/css/main.ea5f9541.css",
-    "main.js": "/TheWedgeSite/static/js/main.982d7ec7.js",
+    "main.js": "/TheWedgeSite/static/js/main.ecf5dda6.js",
     "static/js/453.a7cf0ad7.chunk.js": "/TheWedgeSite/static/js/453.a7cf0ad7.chunk.js",
     "static/media/Cade-on-top.jpg": "/TheWedgeSite/static/media/Cade-on-top.c0d325792f30f9e8b753.jpg",
     "static/media/joe-gardner-2.jpg": "/TheWedgeSite/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
-    "static/media/clem-onojeghuo-3.jpg": "/TheWedgeSite/static/media/clem-onojeghuo-3.83003f446b7372176b72.jpg",
     "static/media/erik-lucatero-2.jpg": "/TheWedgeSite/static/media/erik-lucatero-2.d09715abe0463c58d6be.jpg",
     "static/media/nucleo-icons.eot": "/TheWedgeSite/static/media/nucleo-icons.19bd641ca49ab1e7b4f3.eot",
     "static/media/nucleo-icons.ttf": "/TheWedgeSite/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
@@ -13,11 +12,11 @@
     "static/media/nucleo-icons.woff2": "/TheWedgeSite/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "index.html": "/TheWedgeSite/index.html",
     "main.ea5f9541.css.map": "/TheWedgeSite/static/css/main.ea5f9541.css.map",
-    "main.982d7ec7.js.map": "/TheWedgeSite/static/js/main.982d7ec7.js.map",
+    "main.ecf5dda6.js.map": "/TheWedgeSite/static/js/main.ecf5dda6.js.map",
     "453.a7cf0ad7.chunk.js.map": "/TheWedgeSite/static/js/453.a7cf0ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea5f9541.css",
-    "static/js/main.982d7ec7.js"
+    "static/js/main.ecf5dda6.js"
   ]
 }
